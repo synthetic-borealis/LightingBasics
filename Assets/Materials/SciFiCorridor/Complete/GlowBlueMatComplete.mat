@@ -5,7 +5,8 @@ Material:
   serializedVersion: 6
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
   m_Name: GlowBlueMatComplete
   m_Shader: {fileID: 46, guid: 0000000000000000f000000000000000, type: 0}
   m_ShaderKeywords: _EMISSION
@@ -72,5 +73,5 @@ Material:
     - _UVSec: 0
     - _ZWrite: 1
     m_Colors:
-    - _Color: {r: 1, g: 0.98943394, b: 0.9669811, a: 1}
-    - _EmissionColor: {r: 1.5084945, g: 2.6842327, b: 4.237095, a: 1}
+    - _Color: {r: 0.20392157, g: 0.62352943, b: 0.9607843, a: 1}
+    - _EmissionColor: {r: 1.1863866, g: 2.5009198, b: 4.2370954, a: 1}
